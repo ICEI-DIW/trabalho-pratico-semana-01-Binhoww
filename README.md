@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Bernardo Costa
+Matricula: 889355
 
 ## Tela de inspeção com navegador
+![alt text](image.png)
 
 
 ## Tela de projeto no Replit
-
+![alt text](<Captura de tela 2025-02-26 221504.png>)
